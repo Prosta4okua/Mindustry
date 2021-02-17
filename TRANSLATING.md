@@ -1,6 +1,6 @@
 ## Translating for Mindustry
 
-To begin, log in to your GitHub account, or if you don't have one yet, create it [here](https://github.com/).
+To begin, log in to your GitHub account, or if you don't have one yet, create it [here](https://github.com/). 
 
 Consult [this list](https://www.science.co.il/language/Locale-codes.php) to find the locale code for your language. Once you've found it, 
 head over to the translation bundle folder and check the [list of bundles](https://github.com/Anuken/Mindustry/tree/master/core/assets/bundles) that have already been created. 
